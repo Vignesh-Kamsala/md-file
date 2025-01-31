@@ -123,7 +123,7 @@ def detect_reflected_xss(url):
 
 ### Flowchart of XSS Detection Agent
 
-https://github.com/Vignesh-Kamsala/md-file/blob/main/Untitled%20diagram-2025-01-31-160105.png
+<img src="https://github.com/Vignesh-Kamsala/md-file/blob/main/Untitled%20diagram-2025-01-31-160105.png" alt="Flowchart">
 
 
 ## 7. Future Improvements
